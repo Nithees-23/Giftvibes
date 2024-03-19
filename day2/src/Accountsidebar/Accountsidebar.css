@@ -1,0 +1,73 @@
+.asidemain{
+    height: 520px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 150px;
+    margin-left: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+hr{
+    border:px solid rgb(0, 0, 0);
+}
+.asidecont1{
+    display: flex;
+    font-size: 25px;
+    height: 90px;
+    background-color: #3d3d3d;
+    color: white;
+    align-items: center;
+    padding-left:20px ;
+}
+.asidecont{
+    height: 360px;
+    width: 300px;
+}
+.asidecont2{
+    height: 40px;
+    width: 300px;
+    padding-left: 30px;
+    padding-top:30px ;
+    font-size: 22px;
+}
+.asidecont3{
+    height: 40px;
+    width: 300px;
+    padding-left: 30px;
+    padding-top:30px ;
+    font-size: 22px;
+}
+.asidecont4{
+    height: 40px;
+    width: 300px;
+    padding-left: 30px;
+    padding-top:30px ;
+    font-size: 22px;
+}
+.asidecont5{
+    height: 40px;
+    width: 300px;
+    padding-left: 30px;
+    padding-top:30px ;
+    font-size: 22px;
+}
+.asicon{
+    width: 100px;
+    height: 100px;
+    font-size:40px;
+    padding-right: 10px;
+}
+.asidecont1:hover{
+    cursor: pointer;
+}
+.asidecont2:hover{
+    cursor: pointer;
+}
+.asidecont3:hover{
+    cursor: pointer;
+}
+.asidecont4:hover{
+    cursor: pointer;
+}
+.asidecont5:hover{
+    cursor: pointer;
+}
