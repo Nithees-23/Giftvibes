@@ -1,0 +1,95 @@
+.acmain{
+    display: flex;
+    flex-direction: row;
+}
+
+.accont{
+    height: 75vh;
+    width: 158vh;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    overflow-x: hidden;
+}
+.accont::-webkit-scrollbar {
+    width: 0%;
+    visibility: hidden;
+  }
+.acinfo1{
+    margin-left: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+.acinfo4{
+    margin-left: 70px;  
+    padding: 10px;
+}
+.acinfo4 button{
+    background-color:  rgb(19, 136, 254);
+    margin-top: 10px;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    border: none;
+}
+.acinfo4 button:hover{
+    background-color: rgb(3, 113, 223);
+    cursor: pointer;
+}
+.acinfo2{
+    margin-left: 70px;
+    padding: 10px;
+    
+}
+.acinfo3{
+    padding: 10px;
+    margin-left: 70px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.accontmain{
+    display: flex;
+    flex-direction: column;
+}
+.accontm1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    height: 300px;
+    border-bottom: 1px solid black;
+    margin-left: 70px;
+    margin-right: 180px;
+}
+.acconts1{
+    height: 250px;
+    width: 400px;  
+    margin-right: 100px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    bottom: 1px solid black;
+}
+.acconts1 h2{
+    padding-left: 20px;
+}
+.acconts1 p{
+    padding-left: 30px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.acconts2 h2{
+    padding-left: 20px;
+}
+.acconts2 p{
+    padding-left: 30px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.acconts2{
+    height: 250px;
+    width: 400px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
